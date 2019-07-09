@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="nama_makul" type="id"/>
+    <item name="nama_dosen" type="id"/>
+    <item name="jam_makul" type="id"/>
+    <item name="jam_makul1" type="id"/>
+    <item name="nama_dosen1" type="id"/>
+    <item name="nama_makul1" type="id"/>
+    <item name="NISN" type="id"/>
+    <item name="Nik" type="id"/>
+    <item name="Npm" type="id"/>
+    <item name="Nama" type="id"/>
+    <item name="iNama" type="id"/>
+    <item name="iNik" type="id"/>
+    <item name="iNpm" type="id"/>
+    <item name="iNISN" type="id"/>
+    <item name="iButton" type="id"/>
+    <item name="iTlhr" type="id"/>
+    <item name="iKtlhr" type="id"/>
+    <item name="iEmail" type="id"/>
+</resources>
